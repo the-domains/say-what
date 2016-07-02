@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[say what?]]></title>
         <description><![CDATA[say what?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/say-what/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 11:05:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jul 2016 11:06:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/say-what/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is The Grid a better web designer than you?]]></title>
+            <description><![CDATA[<article><h1>Is The Grid a better web designer than you?</h1><p>Unless you've developed the enviable skill of ignoring adverts on Twitter, you can't have failed to notice The Grid, a new service promising "AI websites that design themselves." The Grid "is not another do-it-yourself website builder," the difference according their site, is that The Grid boasts an advanced AI (artificial intelligence) that can build custom solutions for its clients in mere seconds.</p><img src="http://netdna.webdesignerdepot.com/uploads/2014/12/featured1.jpg"></article>]]></description>
+            <link>http://www.webdesignerdepot.com/2014/12/is-the-grid-a-better-web-designer-than-you/</link>
+            <guid isPermaLink="false">32451330-5be8-43bd-803a-a57ec05c5c7c</guid>
+            <pubDate>Sat, 02 Jul 2016 11:05:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bfce3e5-0748-4362-a3d3-75c685ffc21a.gif">]]></description>
-            <link>undefined78404770-f4f7-44dd-a5ee-396809b24c31/index.html</link>
+            <link>https://thegrid.ai/say-what/78404770-f4f7-44dd-a5ee-396809b24c31/index.html</link>
             <guid isPermaLink="false">78404770-f4f7-44dd-a5ee-396809b24c31</guid>
             <pubDate>Sat, 02 Jul 2016 11:05:46 GMT</pubDate>
         </item>

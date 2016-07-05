@@ -4,8 +4,15 @@
         <description><![CDATA[say what?]]></description>
         <link>https://thegrid.ai/say-what/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 16:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 21:54:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/say-what/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33cc048f7abefadd3728e2b708d5b673/noop.gif?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8bfce3e5-0748-4362-a3d3-75c685ffc21a.gif" alt="The only think I can find relating to artificial intelligence is my decision to back The Grid. A year and a few days after becoming Founding Member #48,316, I finally have access to the system which, as it turns out, is still in Beta. -- Beta! Really? That&apos;s being kind. More like a gleam of an idea hoping to one day grow up and be worthy of being called a Beta. Sorry, no header, no footer, can&apos;t arrange order of posts, no pages, no navigation system. this isn&apos;t a website creator. It&apos;s a clipping service. Try to upload my own photos. Find the clumsy UI that allows me to turn off auto filters and cropping, and then hit publish or public or whatever bit of magic that makes something hit the page, and there it is, the ugliest damn website I&apos;ve ever seen. Seems to take hours to publish anything. Hit the wrong button, no I&apos;m not sure which one, and poof. It&apos;s gone. Oh well, maybe its early days. Give this another 5 years at this rate and - oh wait, by then the developers have moved on. Artificial Intelligence indeed.">]]></description>
+            <link>https://thegrid.ai/say-what/78404770-f4f7-44dd-a5ee-396809b24c31/index.html</link>
+            <guid isPermaLink="false">78404770-f4f7-44dd-a5ee-396809b24c31</guid>
+            <pubDate>Tue, 05 Jul 2016 21:54:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid.io builds incredibly slow websites]]></title>
             <description><![CDATA[<article><h1>The Grid.io builds incredibly slow websites</h1><p>If you're a web designer who uses Facebook, you've probably seen an ad for TheGrid.io, the latest website automation service to hit the scene. The Grid promises total website automation with sleek and modern design. According to sites like TechCrunch, The Grid "uses artificial intelligence to design your websites for you," which sounds cooler than it probably is.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2337d1b14d04de6318c1a39b75d46701aacf46f.png"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://www.webdesignerdepot.com/2014/12/is-the-grid-a-better-web-designer-than-you/</link>
             <guid isPermaLink="false">32451330-5be8-43bd-803a-a57ec05c5c7c</guid>
             <pubDate>Sat, 02 Jul 2016 11:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bfce3e5-0748-4362-a3d3-75c685ffc21a.gif">]]></description>
-            <link>https://thegrid.ai/say-what/78404770-f4f7-44dd-a5ee-396809b24c31/index.html</link>
-            <guid isPermaLink="false">78404770-f4f7-44dd-a5ee-396809b24c31</guid>
-            <pubDate>Sat, 02 Jul 2016 11:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
